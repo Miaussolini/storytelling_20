@@ -43,7 +43,7 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: Alberto Cruz Casanova
+- :cat: Alberto Cruz Casanova
 - :woman: María Aceituno Morales
 - :woman: Raquel Sáez Ruiz 
 
