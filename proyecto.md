@@ -43,9 +43,9 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :cat: Alberto Cruz Casanova
-- :woman: María Aceituno Morales
-- :woman: Raquel Sáez Ruiz 
+- :smirk_cat: María Aceituno Morales
+- :scream_cat: Alberto Cruz Casanova
+- :kissing_cat: Raquel Sáez Ruiz 
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
