@@ -12,7 +12,7 @@ Miaussolini es un gato cuyo chip defectuoso hace que se rebele contra los humano
 
 ### Personaje
 
-![](https://github.com/Miaussolini/storytelling_20/blob/master/C7xrrTRXkAAiQPx.jpg)
+![](https://github.com/Miaussolini/storytelling_20/blob/master/miaussolini.jpeg)
 
 Nombre: Botitas/Miaussolini
 
